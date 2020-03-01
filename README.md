@@ -27,7 +27,8 @@
 - [OpenSubtitles2016](http://opus.nlpl.eu/OpenSubtitles2016.php)
 - [MultiUN](http://opus.nlpl.eu/MultiUN.php)
 
-## [Sources from 25 Best Parallel Text Datasets for ML] (https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
+## Sources from 25 Best Parallel Text Datasets for ML
+[link] (https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
 ### Parallel Text Datasets for Machine Translation Training
 
 - [Aligned Hansards of the 36th Parliament of Canada] (https://www.isi.edu/natural-language/download/hansard/) :  1.3 million pairs of aligned text segments in English and French. The text is taken from the official records of the 36th Canadian Parliament.
